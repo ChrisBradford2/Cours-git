@@ -1,3 +1,12 @@
+#créer un nouveau dossier :
+$ mkdir [nom du dossier]
+
+# ouvrir le dossier
+$ cd [nom du dossier]
+
+# afficher sur la console
+$ echo
+
 # s'enregistre dans .gitconfig de votre compte user
 $ git config --global user.name Tony
 $ git config --global user.email tony@tony.fr
